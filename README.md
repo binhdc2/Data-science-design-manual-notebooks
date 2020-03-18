@@ -1,6 +1,6 @@
 # Data-science-manual-notebooks
 This repository contains jupyter notebooks where I put together most figures that 
-I made for Professor Steven Skiena's book "The Data Science Design Manual."
+I made for Professor Steven Skiena's book [The Data Science Design Manual](http://www.data-manual.com/)
 I hope you enjoy! :)
 Soli Deo gloria.
 
